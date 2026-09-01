@@ -1,9 +1,22 @@
-# PS4 Exploit Host
-Firmwares: `5.05` `6.72` `7.XX` `8.XX` `9.XX` `10.XX` `11.XX` `12.XX` `13.00`
+# Dusky Office - پەڕا هۆستینگێ بۆ Jailbreak یا PS4
 
-## Steps:
+پەڕا فەرمی یا هۆستینگا خۆجەهی بۆ **Dusky Office**، کو ژلایێ سه رکه ت دۆسکی ڤە هاتییە ڕێڤەبرن، و ل باژێرێ دهۆکێ، بازارێ سپیاتیان فه کرنا جهی (**Since 1991**).
 
-- In the console browser go to: https://gamerhack.github.io/
-- Select the firmware of your console.
-- Immediately all content will be installed in the offline cache, once finished exit the browser and turn off the Internet.
-- Then go back to Access Browser and Enjoy.
+## پشکنین و تایبەتمەندی (Overview)
+ئەڤ ڕێپۆزیتۆرییە (Repository) پێکدهێت ژ بەرگی پێشیێ (Front-end) و کۆدێ جافاسکریپت یێ ب خودکار بۆ دیارکرنا وەشانا فێرموێرا پلەیستەیشەن 4 (PS4) بۆ دابەشکرنا ئیکسپلۆیتان (پشتیڤانیا وەشانا 7.00 هەتا 13.00، دگەل پەیلوودێن GoldHEN).
+
+## تایبەتمەندیێن سەرەکی (Features)
+- **دیارکرنا خودکار یا فێرموێرێ:** ناسینا وەشانا فێرموێرا ئامێرا PS4 یا بکارئینەری ب رێکا `navigator.userAgent` و هنارتنا بکارئینەری بۆ پەیلوودا ڕاست (وەک cache700.html, cache900.html, cachecss.html, slopkit و هتد).
+- **دیزاینەکا تاریک و جوان (Responsive Dark Theme):** دیزاینکرییە ب ڕەنگەکێ تاریک یێ تایبەت، وێنەیێ پاشبنەمایێ، و دوگمێن UI یێن جوان.
+- **پەیوەندیکرنا ڕاستەوخۆ:** دوگمێن لەزگین بۆ پشکداریکرنا ئینستاگرام، تیکتۆک، و واتسئاپێ.
+
+## پێکهاتەیا فایلان (File Structure)
+- `index.html` - پەڕا سەرەکی یا ڤەکرنێ دگەل لۆژیکا وەرگەراندنا خودکار و دیزاینا UI.
+- `style.css` - فایلا دەرەکی یا ستاڵی بۆ ڕێسایێن سەرەکی (ئاماژە بۆ هاتییە کرن ل سەری).
+- `img.jpg` - وێنەیێ پاشبنەمایێ بۆ ئۆفیسێ.
+- `/700`, `/900`, `/css`, `/slopkit` - بوخچەیێن پەیلوودێن ئیکسپلۆیت و سکریپتان.
+
+## پەیوەندی و جهـ (Contact & Location)
+* **رێڤەبەر:** سه رکه ت دۆسکی (Sarkat Dusky)
+* **جهـ:** دهۆک، بازارێ سپێاتییە
+* **تەلەفۆن / واتسئاپ:** 07504506655
