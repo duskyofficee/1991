@@ -13,6 +13,7 @@ css\worker.js
 css\workers.js
 css\ps4\constants.js
 css\ps4\kernel.js
+css\kernel.ts
 css\ps4\userland.js
 css\ps4\patches\1000.bin
 css\ps4\patches\1050.bin
